@@ -3,7 +3,7 @@
 ![image](https://github.com/abuxTM/map-editor/assets/104513379/35d814dd-efba-49eb-a9cb-5e10a549f75f)
 
 **Keybinds**
-c Allows you to place offtiles (offtiles = no rect)
+- c Allows you to place offtiles (offtiles = no rect)
 e Go up (tiles)
 q GO down (tiles)
 scroll up and down to change tile
